@@ -1,7 +1,8 @@
 #! /bin/bash
 
-
+#Clear
 clear
+
 
 
 function getIPs {
